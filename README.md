@@ -1,4 +1,4 @@
-# NMT_LowRec
+# MT-LowRec
 
 The repository is for the following research:
 
