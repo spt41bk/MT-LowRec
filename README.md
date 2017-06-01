@@ -2,19 +2,16 @@
 
 The repository is for the following research:
 
-Utilizing Neural Machine Translation for Low-Resource Languages
+Investigating Phrase-Based and Neural-Based Machine Translation onLow-Resource Settings
 
-This work utilized Neural Machine Translation [1] for low-resource languages. Experiments were conducted on the following language pairs:
+This work trained Neural Machine Translation [1] and Statistical Machine Translation on low-resource languages. Experiments were conducted on the following language pairs:
 
 1. Japanese-English
 
-2. Czech-English
+2. Indonesian-Vietnamese
 
 3. English-Vietnamese
 
-4. Indonesian-Vietnamese
-
-5. Czech-Vietnamese
 
 # Dependencies
 
